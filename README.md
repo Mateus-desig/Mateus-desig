@@ -1,7 +1,7 @@
 ## Olá! Eu sou Mateus Gonzaga
 
 - 🔭 Hoje eu trabalho como desenvolvedor Full Stack
-- 🌱 Estudando JavaScript e TypeScript
+- 🌱 Estudando JavaScript, TypeScript, NodeJs
 
 <div align="center">
   <a href="https://github.com/Mateus-desig">
